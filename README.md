@@ -10,9 +10,13 @@
 
 ## რეპოზიტორიის სტრუქტურა
   ○ model_experiment_log_reg.ipynb - Logistic Regression
+  
   ○ model_experiment_xgboost.ipynb - XGBoost
+  
   ○ model_experiment_adaboost.ipynb - AdaBoost 
+  
   ○ model_experiment_random_forest.ipynb - Random Forest
+  
   ○ model_inference.ipynb - მოდელის ჩამოტვირთვა MLflow-დან და სატესტო მონაცემებზე პროგნოზირებისთვის submission file-ის დაგენერირება
 
 ## Feature Engineering
