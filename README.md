@@ -39,10 +39,10 @@
   
   ○ საბოლოოდ დავლოგე ყველა ტესტირებული მოდელისთვის შესაბამისი საუკეთესო მოდელი ოპტიმალური პარამეტრებით(რომლებიც დალოგილია mlflow-ზე). მოდელები შევაფასე AUC მეტრიკით (val_auc , train_auc). ყველაზე მეტი ექსპერიმენტი xgboost-ისთვის ჩავატარე და ბევრი პარამეტრი მოვსინჯე, ალბათ, სწორედ ამიტომ, ამ მოდელმა საუკეთესო შედეგი მომცა.
  
-  რაც შეეხება საბოლოო პროგნოზს ტესტზე, იხილეთ ლინკზე ყველა სხვა პროგნოზთან ერთად:  https://www.kaggle.com/competitions/ieee-fraud-detection/submissions# 
+  რაც შეეხება საბოლოო პროგნოზს ტესტზე, იხილეთ [ლინკზე]( https://www.kaggle.com/competitions/ieee-fraud-detection/submissions# ) ყველა სხვა პროგნოზთან ერთად
 
 ## MlFlow Tracking
- ექსპერიმენტები: https://dagshub.com/ashar-22/hw02ml/experiments
+ [ექსპერიმენტები](https://dagshub.com/ashar-22/hw02ml/experiments)
  
  ### დალოგილი პარამეტრები:
 
